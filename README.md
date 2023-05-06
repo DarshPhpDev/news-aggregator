@@ -6,9 +6,9 @@ This is a full-stack web application that displays the latest news articles from
 
 ## Server-side Setup
 
-1. Download the project folder
+1. clone / download the project folder `git clone https://github.com/DarshPhpDev/news-aggregator.git`
 
-2. Navigate to the project directory: `cd news-aggregator/backend`
+2. Navigate to the backend directory: `cd news-aggregator/backend`
 
 3. Run the following command: `docker-compose up -d`
 
@@ -24,7 +24,7 @@ This is a full-stack web application that displays the latest news articles from
 
   
 
-1. Navigate to the project directory: `cd news-aggregator/frontend`
+1. Navigate to the frontend directory: `cd news-aggregator/frontend`
 
 2. Run the following command: `docker-compose up -d`
 
